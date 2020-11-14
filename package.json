@@ -1,6 +1,7 @@
 {
   "name": "hello-react",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.19.2",
@@ -30,14 +31,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/oguzhanzny/GitHub-Profile-Finder.git"
-  },
-  "bugs": {
-    "url": "https://github.com/oguzhanzny/GitHub-Profile-Finder/issues"
-  },
-  "homepage": "https://github.com/oguzhanzny/GitHub-Profile-Finder#readme",
-  "description": ""
+  "license": "ISC"
 }
